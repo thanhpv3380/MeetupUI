@@ -1,3 +1,5 @@
 # MeetupUI
-Open index.html
-Link firebase: https://meetupui.web.app/
+## Setup
+Run index.html
+## Link firebase: 
+https://meetupui.web.app/
