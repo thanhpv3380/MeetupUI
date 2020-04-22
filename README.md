@@ -1,5 +1,5 @@
 # MeetupUI
-MeetupUI là giao diện được viết theo Meetup.com, một dịch vụ mạng xã hội được sáng lập bởi Scott Heiferman. 
+MeetupUI là giao diện được viết theo [meetup.com](meetup.com), một dịch vụ mạng xã hội được sáng lập bởi Scott Heiferman. 
 ## Material
 - CSS, HTML
 - fontawesome.com
