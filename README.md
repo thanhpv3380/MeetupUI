@@ -4,7 +4,7 @@ MeetupUI là giao diện được viết theo [meetup.com](meetup.com), một d�
 - CSS, HTML
 - fontawesome.com
 ## Getting Started
--Clone the repo and make it yours:
+- Clone the repo and make it yours:
 ```bash
 $ git clone https://github.com/thanhpv3380/MeetupUI.git
 ```
